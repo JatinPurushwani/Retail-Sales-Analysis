@@ -49,7 +49,3 @@ python src/etl.py
 - Push this repo to GitHub.
 - In Streamlit Cloud, select the repo and set the file path to `app/streamlit_app.py`.
 - Add `data/retail_sales.csv` to the repo so the app has data at runtime.
-
-## Resume line
-**Retail Sales Analytics Dashboard – Python | SQL | Streamlit**  
-Built an interactive analytics dashboard on 12K+ orders across 2 years. Implemented SQL queries and Python EDA to identify revenue drivers, margin impacts, and regional trends. Delivered KPIs and insights with a Streamlit dashboard.
